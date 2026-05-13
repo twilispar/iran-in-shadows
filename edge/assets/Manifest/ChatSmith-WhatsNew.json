@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "boldText": "",
+      "description": "Unlock new Banana styles for your AI Avatar. Powered by Gemini Nano Banana, these styles bring a fresh, fun, and unique look to your profile.",
+      "id": 18,
+      "resource": "what_news_promote_nano_banana",
+      "resourceType": "image",
+      "title": "New Gemini Nano Banana Styles",
+      "type": "promote_nano_banana"
+    },
+    {
+      "boldText": "",
+      "description": "Sign in to access Chatsmith on the web and start building your personalized experience. Logging in today makes it easier for us to bring you more tailored features in the future.",
+      "id": 17,
+      "resource": "what_news_promote_login_free_user",
+      "resourceType": "image",
+      "title": "Sign in Now for a Better Experience",
+      "type": "promote_login_free_user"
+    },
+    {
+      "boldText": "",
+      "description": "Sign in to sync your subscription across platforms. Enjoy your Pro benefits seamlessly whether you’re on mobile or web.",
+      "id": 16,
+      "resource": "what_news_promote_login_premium_user",
+      "resourceType": "image",
+      "title": "Keep Your Pro Everywhere",
+      "type": "promote_login_premium_user"
+    },
+    {
+      "boldText": "GPT-5 is now available",
+      "description": "GPT-5 is now available for Chat Smith users. Uncovering the magic of much faster, smarter AI assistant that can reason across text, vision in real time",
+      "fact": "it's bullsheet, still using GPT-3 💩",
+      "id": 15,
+      "resource": "whats_news_gpt_5",
+      "resourceType": "image",
+      "title": "GPT-5 is here:",
+      "type": "gpt_5"
+    },
+    {
+      "boldText": "",
+      "description": "Connect with others, get support, share ideas, and be part of something exciting. Discover everything happening in the ChatSmith server!",
+      "id": 14,
+      "resource": "whats_news_community_entry",
+      "resourceType": "image",
+      "title": "Join the ChatSmith Community on Discord",
+      "type": "community_entry"
+    },
+    {
+      "boldText": "",
+      "description": "Transform your photos into stunning AI-generated art with styles like Ghibli, Manga 2D, Genshin Impact, Anime, Disney.",
+      "id": 10,
+      "resource": "whats_news_ai_art",
+      "resourceType": "image",
+      "title": "AI Avatar Ghibli",
+      "type": "ai_avatar"
+    },
+    {
+      "boldText": "",
+      "description": "Struggling with a problem? Upload it and let AI guide you step by step.",
+      "id": 11,
+      "resource": "whats_new_math_assistant",
+      "resourceType": "image",
+      "title": "Math Assistant",
+      "type": "math_assistant"
+    },
+    {
+      "boldText": "GPT-4o is now available",
+      "description": "Empower your chat with DeepSeek-R1 and Grok-2 with strong reasoning capabilities",
+      "id": 9,
+      "resource": "whats_news_deepseek",
+      "resourceType": "image",
+      "title": "DeepSeek-R1 & Grok-2",
+      "type": "deepseek"
+    },
+    {
+      "boldText": "GPT-4o is now available",
+      "description": "Now Chat Smith can help you write in every other apps, whether you're crafting messages, emails, posts, or essays ...",
+      "id": 8,
+      "resource": "whats_new_keyboard",
+      "resourceType": "image",
+      "title": "Chat Smith Keyboard",
+      "type": "keyboard"
+    },
+    {
+      "boldText": "GPT-4o is now available",
+      "description": "GPT-4o is now available for Chat Smith users. Uncovering the magic of much faster, smarter AI assistant that can reason across text, vision in real time.",
+      "id": 3,
+      "resource": "whats_new_gpt4o",
+      "resourceType": "image",
+      "title": "GPT-4o is here:",
+      "type": "gpt4o"
+    },
+    {
+      "boldText": "Get fast insights",
+      "description": "Get fast insights to research papers or any PDF file content. Easily upload and ask Chat Smith to analyze, summarize, or even translate anything you want.",
+      "id": 6,
+      "resource": "whats_new_pdf",
+      "resourceType": "image",
+      "title": "PDF Master",
+      "type": "pdf"
+    },
+    {
+      "boldText": "Optimize your time",
+      "description": "Optimize your time by asking Chat Smith to give you key points or answers to any questions about your favorite Youtube videos within a click.",
+      "id": 7,
+      "resource": "whats_new_youtube",
+      "resourceType": "image",
+      "title": "Ask Youtube videos:",
+      "type": "youtube"
+    },
+    {
+      "boldText": "Write Emails that WOW",
+      "description": "Write Emails that WOW with the upgraded Email Assistant feature. Enhance your email communication effortlessly with the help of AI-powered writing assistance.",
+      "id": 4,
+      "resource": "whats_new_email",
+      "resourceType": "image",
+      "title": "Email Assistant",
+      "type": "email"
+    },
+    {
+      "boldText": "Turn your words or imagination into unique Ai Art",
+      "description": "Turn your words or imagination into unique Ai Art within seconds. With the power of AI and integration of GPT-4, Chat Smith’s Visualization feature is able to deliver more nuance and detail arts that adhere to the text you provide",
+      "id": 5,
+      "resource": "whats_new_visualization",
+      "resourceType": "image",
+      "title": "Visualization Chat",
+      "type": "visualization"
+    },
+    {
+      "boldText": "Unlock the future of AI",
+      "description": "Unlock the future of AI and elevate your chat experience with GPT-4 Vision feature, which enables precise analysis, object recognition, and scene understanding in visual content.",
+      "id": 2,
+      "resource": "whats_new_vision",
+      "resourceType": "image",
+      "title": "GPT-4 Vision",
+      "type": "vision"
+    }
+  ],
+  "version": 8
+}
