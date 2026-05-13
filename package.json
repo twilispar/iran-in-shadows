@@ -1,0 +1,32 @@
+{
+  "description": "Freedom to Dream",
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@typescript-eslint/eslint-plugin": "^8.38.0",
+    "@typescript-eslint/parser": "^8.38.0",
+    "eslint": "^9.21.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-html": "^8.1.1",
+    "eslint-plugin-jsonc": "^2.16.0",
+    "eslint-plugin-yml": "^1.14.0",
+    "globals": "^15.8.0",
+    "jsonc-eslint-parser": "^2.4.0",
+    "prettier": "^3.5.2",
+    "yaml-eslint-parser": "^1.2.3"
+  },
+  "engines": {
+    "node": "^18.18.0 || ^20.9.0 || >=21.1.0"
+  },
+  "name": "vless",
+  "scripts": {
+    "format": "npm run format:js-family && npm run format:py",
+    "format:js-family": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md,yml,yaml,html,css,scss,vue}\"",
+    "format:py": "ruff format .",
+    "lint": "npm run lint:js && npm run lint:py",
+    "lint-format": "npm run format && npm run lint",
+    "lint:js": "eslint --fix .",
+    "lint:py": "ruff check --fix --unsafe-fixes ."
+  },
+  "type": "module",
+  "version": "1.0.2"
+}
